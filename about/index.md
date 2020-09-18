@@ -1,3 +1,5 @@
-# About This Site
+# About This Application
 
-This site content was generated using Docify and went to demo in Opensource.com
+User can use this application to create cards and groups corresponding to those cards
+
+
